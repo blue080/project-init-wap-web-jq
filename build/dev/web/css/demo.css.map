@@ -1,0 +1,1 @@
+{"version":3,"sources":["demo.scss"],"names":[],"mappings":"AAAA,CAAC,CAAA;EACC,OAAO,EAAE,CAAE;EACX,MAAM,EAAE,CAAE,GAFV;;AAIF,GAAG,CAAA;EACD,gBAAgB,EAAE,IAAK,GADrB","file":"demo.css","sourcesContent":["*{\n  padding: 0;\n  margin: 0;\n}\ndiv{\n  background-color: #000;\n}\n"],"sourceRoot":"/source/"}
